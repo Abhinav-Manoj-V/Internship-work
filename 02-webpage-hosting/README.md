@@ -8,10 +8,7 @@ This portfolio showcases professional skills, projects, education, and contact i
 
 ## 🌐 Live Demo
 
-🔗 Add your deployed website link here
-
-Example:
-https://portfolio-51e24.web.app/
+🔗 https://portfolio-51e24.web.app/
 
 ---
 
