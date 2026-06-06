@@ -8,7 +8,7 @@ This portfolio showcases professional skills, projects, education, and contact i
 
 ## 🌐 Live Demo
 
-🔗 https://portfolio-51e24.web.app/
+🔗 https://abhinav-manoj.web.app
 
 ---
 
